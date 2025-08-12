@@ -60,5 +60,4 @@ The CNN model for MNIST digit recognition consists of the following layers:
 
 ## ✨ Author
 **Manika Sarkar**  
-📧 Email: your.email@example.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/manika-sarkar-264426295/) | [GitHub](https://github.com/Manika7777)
