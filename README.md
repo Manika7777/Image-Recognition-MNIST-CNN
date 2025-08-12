@@ -56,6 +56,8 @@ The CNN model for MNIST digit recognition consists of the following layers:
    cd Image-Recognition-MNIST-CNN
 2.Install dependencies:
    ```pip install -r requirements.txt
+
+
 ## ✨ Author
 **Manika Sarkar**  
 📧 Email: your.email@example.com  
