@@ -50,13 +50,13 @@ The CNN model for MNIST digit recognition consists of the following layers:
 - **Test Accuracy:** ~99%
 
 ## 🚀 How to Run
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/Manika7777/Image-Recognition-MNIST-CNN.git
    cd Image-Recognition-MNIST-CNN
-2.Install dependencies:
-   ```pip install -r requirements.txt
-
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
 ## ✨ Author
 **Manika Sarkar**  
